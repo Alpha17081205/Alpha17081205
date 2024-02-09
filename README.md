@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alpha17081205
-- 👀 I’m interested in Geobiology. But I also do statistical data analysis and data visualization with R.
-- 🌱 I’m currently learning R and paleontological statistical analysis.
-- 💞️ I’m looking to collaborate on analyzing fossil data.
+- 👀 I’m interested in Geobiology and Astrobiology. But I also do statistical data analysis and data visualization with R.
+- 🌱 I’m currently learning R and statistical analysis.
 - 📫 How to reach me at devyani.jambhule@students.iiserpune.ac.in
 
 <!---
